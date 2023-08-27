@@ -4,7 +4,7 @@
 
 ### :man_technologist: &nbsp;About Me :
 
-I am a passionate Full Stack & Blockchain Developer.
+I am a passionate Full Stack Developer.
 
 - 🔭 Highly-skilled Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 6 years.
 - 🌱 Proficient in both web applications and cross-platform applications development.

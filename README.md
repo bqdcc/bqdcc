@@ -42,6 +42,9 @@ I am a passionate Full Stack Developer.
   <a href='https://nodejs.org/en/docs' target='_blank'>
     <img src='https://img.shields.io/badge/Node-026e00' />
   </a>
+  <a href='https://vuejs.org/' target='_blank'>
+    <img src='https://img.shields.io/badge/Vue-549e73' />
+  </a>
 
 <!--
 **bqdcc/bqdcc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

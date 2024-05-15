@@ -6,7 +6,7 @@
 
 I am a passionate Full Stack Developer.
 
-- 🔭 Highly-skilled Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 8 years.
+- 🔭 Highly-skilled Developer with an entrepreneurial mindset and passion for creating cohesive, engaging experiences over 7 years.
 - 🌱 Proficient in both web applications and cross-platform applications development.
 - ⚡ Enjoys learning new technologies and building innovative solutions that solve real-world problems.
 - 📫 How to reach me: &nbsp; bqdcc@outlook.com

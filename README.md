@@ -16,6 +16,9 @@ I am a passionate Full Stack Developer.
   <a href='https://react.dev/reference/react' target='_blank'>
     <img src='https://img.shields.io/badge/React-0d6d8c' />
   </a>
+  <a href='https://www.typescriptlang.org/' target='_blank'>
+    <img src='https://img.shields.io/badge/Typescript-3178c6' />
+  </a>
   <a href='https://nextjs.org/' target='_blank'>
     <img src='https://img.shields.io/badge/NextJs-7735cd' />
   </a>
@@ -45,6 +48,9 @@ I am a passionate Full Stack Developer.
   </a>
   <a href='https://vuejs.org/' target='_blank'>
     <img src='https://img.shields.io/badge/Vue-549e73' />
+  </a>
+  <a href='https://svelte.dev/' target='_blank'>
+    <img src='https://img.shields.io/badge/Svelte-e64c32' />
   </a>
 
 <!--
